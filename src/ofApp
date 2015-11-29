@@ -1,0 +1,30 @@
+#pragma once
+#include "ofMain.h"
+#include "Ukiyoe.h"
+#define BGNUM 2
+class ofApp : public ofBaseApp{
+
+	public:
+    void title(float y);
+    
+		void setup();
+		void update();
+		void draw();
+    void snap();
+    void CountDown();
+		void keyPressed(int key);
+		void keyReleased(int key);
+		void mouseMoved(int x, int y );
+		void mouseDragged(int x, int y, int button);
+		void mousePressed(int x, int y, int button);
+		void mouseReleased(int x, int y, int button);
+		void windowResized(int w, int h);
+		void dragEvent(ofDragInfo dragInfo);
+		void gotMessage(ofMessage msg);
+        ofImage bg[BGNUM];
+    ofImage texture;
+    Ukiyoe ukiyoe;
+    int mode;
+    ofTrueTypeFont font;
+    ofSoundPlayer cam,taiko,iyo,tsutsumi;
+};

@@ -1,38 +1,78 @@
-# ã‚µãƒ³ãƒ—ãƒ«ï¼ˆãƒ—ãƒ­ãƒ€ã‚¯ãƒˆåï¼‰
-## è£½å“æ¦‚è¦2
-test
-### èƒŒæ™¯(è£½å“é–‹ç™ºã®ãã£ã‹ã‘ã€èª²é¡Œç­‰ï¼‰
-### è£½å“èª¬æ˜Žï¼ˆå…·ä½“çš„ãªè£½å“ã®èª¬æ˜Žï¼‰
-### ç‰¹é•·
-####1. ç‰¹é•·1
-####2. ç‰¹é•·2
-####3. ç‰¹é•·3
+# ƒTƒ“ƒvƒ‹iƒvƒƒ_ƒNƒg–¼j
+UKIYOE CAMERA
+## »•iŠT—v
+”ÍˆÍ“à‚Él•¨‚ª“ü‚Á‚½Žž‚ÉƒJƒƒ‰‚ð‹N“®‚µAŽB‰e‚µ‚½l•¨‚Æ•‚¢ŠG‚ð‡¬‚µA‚Ü‚é‚Å•‚¢ŠG‚Ì’†‚Él•¨‚ª“ü‚è‚±‚ñ‚¾‚©‚Ì‚æ‚¤‚È‰æ‘œ‚ð¶¬‚·‚éƒAƒvƒŠƒP[ƒVƒ‡ƒ“kinect‚ðŽg—p‚µ‚Ä‚¨‚èA”ÍˆÍ“à‚Él•¨‚ª“ü‚Á‚½Žž‚ÉŽ©“®“I‚ÉƒJƒƒ‰‚ª‹N“®‚·‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚éBŽÊ^‚ÉŽÊ‚él•¨‚ÍŽ©•ª‚ÅƒJƒƒ‰‚ð‘€ì‚·‚é•K—v‚ª‚È‚­AŠÈ’P‚ÉŽÊ^‚ðŽB‰e‚Å‚«‚éB
 
-### è§£æ±ºå‡ºæ¥ã‚‹ã“ã¨
-### ä»Šå¾Œã®å±•æœ›
-### æ³¨åŠ›ã—ãŸã“ã¨ï¼ˆã“ã ã‚ã‚Šç­‰ï¼‰
-* 
-* 
+### ”wŒi(»•iŠJ”­‚Ì‚«‚Á‚©‚¯A‰Û‘è“™j
+¡¢ŠE‚Å‚ÍƒOƒ[ƒoƒ‹‰»‚ªi‚ñ‚Å‚¢‚éB
+lE•¨E‹à‚È‚Ç‚ÍA¡‚Æ‚È‚Á‚Ä‚Í‘‹«‚ð‰z‚¦‚Ä“n‚Á‚Ä‚¢‚­‚à‚Ì‚Å‚ ‚éB
+‚±‚ÌƒOƒ[ƒoƒ‹‰»‚ªi‚Þ¢ŠE‚Å1‚Â‰Û‘è‚É‚È‚Á‚Ä‚¢‚é‚Ì‚ªAw‘ŠŒÝ‚Ì‘‚Ì•¶‰»—‰ðx‚Å‚ ‚éB
+2020”N‚É“Œ‹žƒIƒŠƒ“ƒsƒbƒN‚ªŠJÃ‚³‚ê‚éB
+–K“úŠO‘l—·sŽÒ‚Í”NX‘‚¦‚Ä‚«‚Ä‚¢‚é‚ªA2020”N‚Ì“Œ‹žƒIƒŠƒ“ƒsƒbƒN‚ÉŒü‚¯‚Ä‚³‚ç‚È‚é‘‰Á‚ªŒ©ž‚Ü‚ê‚éB
+ŽÀÛ‚ÉA‰ß‹Ž‚ÉƒIƒŠƒ“ƒsƒbƒN‚ðŠJÃ‚µ‚½‘‚Å‚Í’·Šú“I‚ÈŠÏŒõ‹q”‚Ì‘‰Á‚ª‚ ‚Á‚½B
+‚±‚ê‚ð‹@‚ÉA­‚µ‚Å‚à‘½‚­‚ÌŠO‘l‚É‚Ü‚¸‚Íu“ú–{‚Ì•¶‰»‚É’m‚Á‚Ä‚à‚ç‚¤v‚±‚Æ‚ªd—v‚¾‚Æl‚¦A‚±‚Ì»•i‚Ì’ñˆÄ‚ð‚·‚éB
+ŽQlURL
+http://www.mlit.go.jp/kankocho/siryou/toukei/in_out.html
+http://www.mlit.go.jp/common/001029815.pdf
 
-## é–‹ç™ºæŠ€è¡“
-### æ´»ç”¨ã—ãŸæŠ€è¡“
-#### APIãƒ»ãƒ‡ãƒ¼ã‚¿
-* 
-* 
+### »•ià–¾i‹ï‘Ì“I‚È»•i‚Ìà–¾j
+ŽB‰e‚µ‚½l•¨‚Æ•‚¢ŠG‚ð—Z‡‚Å‚«‚éƒJƒƒ‰ƒAƒvƒŠ‚Å‚ ‚éB“®ì‚É‚ÍPCAƒfƒBƒXƒvƒŒƒCAkinect‚ª•K—v‚Å‚ ‚éBŽB‰e‚µ‚½‰æ‘œ‚ÍpngŒ`Ž®‚Å•Û‘¶‚³‚ê‚éB
+### “Á’·
+####1. “Á’·1
+kinect‚ðŽg—p‚µ‚Ä‚¨‚èA”ÍˆÍ“à‚Él•¨‚ª“ü‚Á‚½Žž‚ÉŽ©“®“I‚ÉƒJƒƒ‰‚ª‹N“®‚·‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚éBŽÊ^‚ÉŽÊ‚él•¨‚ÍŽ©•ª‚ÅƒJƒƒ‰‚ð‘€ì‚·‚é•K—v‚ª‚È‚­AŠÈ’P‚ÉŽÊ^‚ðŽB‰e‚Å‚«‚éB
 
-#### ãƒ•ãƒ¬ãƒ¼ãƒ ãƒ¯ãƒ¼ã‚¯ãƒ»ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ»ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«
-* 
-* 
+####2. “Á’·2
+ƒIƒŠƒWƒiƒ‹‚ÌƒtƒBƒ‹ƒ^‚ð—p‚¢‚Ä‰æ‘œ‚ð‰ÁH‚µ‚Ä‚¨‚èA‚æ‚èl•¨‚ð•‚¢ŠG‚Ì“oêl•¨‚Ì‚æ‚¤‚É‚·‚é‚±‚Æ‚ª‚Å‚«‚éB
+####3. “Á’·3
+l•¨‚ÍŽ©“®“I‚ÉØ‚è”²‚©‚êA”wŒi‚É—n‚¯ž‚Þ‚æ‚¤‚É‚Å‚«‚Ä‚¢‚éB
+####4. “Á’·4
+ƒtƒBƒ‹ƒ^ƒŠƒ“ƒO‚µ‚½Û‚ÌÅ‘å‚Ì“Á’¥‚Æ‚µ‚ÄAl•¨‚Ì”zF‚ðŽÀÛ‚É•‚¢ŠG‚ÉŽg‚í‚ê‚Ä‚¢‚éF‚É—Ž‚Æ‚µž‚Þ‚±‚Æ‚ª‹“‚°‚ç‚ê‚éB
 
-#### ãƒ‡ãƒã‚¤ã‚¹
-* 
-* 
 
-### ç‹¬è‡ªæŠ€è¡“
-#### ãƒãƒƒã‚«ã‚½ãƒ³ã§é–‹ç™ºã—ãŸç‹¬è‡ªæ©Ÿèƒ½ãƒ»æŠ€è¡“
-* ç‹¬è‡ªã§é–‹ç™ºã—ãŸã‚‚ã®ã®å†…å®¹ã‚’ã“ã¡ã‚‰ã«è¨˜è¼‰ã—ã¦ãã ã•ã„
-* ç‰¹ã«åŠ›ã‚’å…¥ã‚ŒãŸéƒ¨åˆ†ã‚’ãƒ•ã‚¡ã‚¤ãƒ«ãƒªãƒ³ã‚¯ã€ã¾ãŸã¯commit_idã‚’è¨˜è¼‰ã—ã¦ãã ã•ã„ã€‚
+### ‰ðŒˆo—ˆ‚é‚±‚Æ
+E—lX‚È‘‚Ì•¶‰»‚ð’m‚é‚±‚Æ‚ª‚Å‚«‚é(“ú–{‚¾‚¯‚Å‚È‚­ŠCŠO”Å‚Æ‚µ‚Ä‚Å‚à§ì‰Â”\)
+EŽQ‰ÁŒ^‚Ì»•i‚Å‚ ‚é‚½‚ßA‚±‚Ìì•i‚ð’Ê‚µ‚Ä‘‹«‚ð‰z‚¦‚½ƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚ªŒ©ž‚ß‚é
+ESNS‚Å‚ÌŠgŽU‚È‚Ç‚É‚æ‚èA•¶‰»‚ÌŽü’m‚ð}‚ê‚é
+E•¶‰»‚ÉG‚ê‚½Ø‚ªŒ`(ŽÊ^)‚Æ‚µ‚ÄŽc‚é‚±‚Æ‚É‚æ‚èA‚»‚ÌŽž‚¾‚¯‚Å‚Í‚È‚¢’·Šú“I‚ÈŒoŒ±‚Æ‚È‚é
 
-#### è£½å“ã«å–ã‚Šå…¥ã‚ŒãŸç ”ç©¶å†…å®¹ï¼ˆãƒ‡ãƒ¼ã‚¿ãƒ»ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ãªã©ï¼‰ï¼ˆâ€»ã‚¢ã‚«ãƒ‡ãƒŸãƒƒã‚¯éƒ¨é–€ã®å ´åˆã®ã¿æå‡ºå¿…é ˆï¼‰
-* 
-* 
+### ¡Œã‚Ì“W–]
+E2020”N‚Ì“Œ‹žƒIƒŠƒ“ƒsƒbƒN‚ÉŒü‚¯‚ÄŠJ”­‚·‚é
+EŠCŠO—·sŽÒ‚ªW‚Ü‚éuŠÏŒõ’nv‚âu“sŽsvAu‹ó`v‚È‚Ç‚É’u‚­
+EŠCŠO”Å‚Ì§ì(—áFƒsƒJƒ\‚ÌwƒQƒ‹ƒjƒJxAƒŒƒIƒiƒ‹ƒh¥ƒ_¥ƒ”ƒBƒ“ƒ`‚Ìwƒ‚ƒi¥ƒŠƒUx)
+
+### ’—Í‚µ‚½‚±‚Æi‚±‚¾‚í‚è“™j
+*”zF‹ßŽ—‚Ì•û–@
+F‚ð‹ßŽ—‚³‚¹‚é•û–@‚Æ‚µ‚ÄAƒ†[ƒNƒŠƒbƒh‹——£‚É‚æ‚é‹ßŽ—‚ðs‚Á‚Ä‚¢‚éB‚ ‚ç‚©‚¶‚ßŽg—p‚·‚éF‚ð•Û‘¶‚µ‚Ä‚¨‚«ARGB‚ÌF¬•ª‚ð3ŽŸŒ³À•W‚Æl‚¦‚Ä‹——£‚ð‘ª’è‚µAÅ‚à‹ß‚©‚Á‚½“_‚ÌF‚ð‘I‘ð‚µ‚Ä‚¢‚éB
+”zFƒf[ƒ^‚Ícsv‚Å‹Lq‚Å‚«A•ÒW‚à—eˆÕ‚Å‚ ‚éB
+*ŠO‘lŒü‚¯‚Æ‚¢‚¤‚±‚Æ‚ÅAƒAƒvƒŠ“à‚Ìà–¾•¶‚Í‰pŒê‚Ü‚½‚Íƒ[ƒ}Žš‚Å‹Lq‚³‚ê‚Ä‚¢‚é‚ªAƒAƒvƒŠƒP[ƒVƒ‡ƒ“‘S‘Ì‚Ì•µˆÍ‹C‚ðu˜av‚É“ˆê‚µA“ú–{‚Ì•µˆÍ‹C‚ðŠ´‚¶Žæ‚ê‚é‚æ‚¤‚É‚µ‚Ä‚¢‚éB 
+
+## ŠJ”­‹Zp
+Œ¾Œê:C++
+Žg—p‚µ‚½ƒtƒŒ[ƒ€ƒ[ƒN:openframeworks,ofxOpenCv,ofxKinect
+
+### Šˆ—p‚µ‚½‹Zp
+#### ƒtƒŒ[ƒ€ƒ[ƒNEƒ‰ƒCƒuƒ‰ƒŠEƒ‚ƒWƒ…[ƒ‹
+*openframeworks
+
+*ofxOpenCv
+
+*ofxKinect 
+ 
+
+#### ƒfƒoƒCƒX
+*Kinect
+ 
+### “ÆŽ©‹Zp
+
+•‚¢ŠGƒtƒBƒ‹ƒ^
+
+#### ƒnƒbƒJƒ\ƒ“‚ÅŠJ”­‚µ‚½“ÆŽ©‹@”\E‹Zp
+
+l•¨‚ð•‚¢ŠG‚Ì‚æ‚¤‚É‰ÁH‚·‚éƒtƒBƒ‹ƒ^
+Žè‡‚ÍˆÈ‰º‚Ì’Ê‚è‚Å‚ ‚éB
+
+‰æ‘œ‚ÌF‚ÌŠK’²‰»iƒ|ƒXƒ^ƒŠƒ[[ƒVƒ‡ƒ“j
+l•¨‚Ì—ÖŠs‚ð’ŠoiOpenCv‚Ì‹@”\j
+ŠK’²‰»‚µ‚½F‚ð•‚¢ŠG‚Ì”zF‚É‹ßŽ—i“ÆŽ©‚Ì•û–@ •û–@‚Íã‚ÉÚ‚µ‚­‹LÚj
+ƒKƒEƒX‚Ú‚©‚µi“ÆŽ©‚Åì¬j
+Ä‚Ñ—ÖŠs’Šoi‹­’²‚·‚é‚½‚ßj
